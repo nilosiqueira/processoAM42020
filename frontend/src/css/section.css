@@ -1,0 +1,104 @@
+#home {
+  position: relative;
+  background-image: url('../img/section-home2.png');
+  background-attachment: scroll;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-color: #fff;
+  height: 80vh;
+}
+
+#localizacao {
+  background-image: url('../img/logo2.png');
+  position: relative;
+  background-attachment: scroll;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-color: #fff;
+  height: 98vh;
+}
+
+.title {
+  justify-content: center;
+  position: absolute;
+  top: 25px;
+  left: 36%;
+  color: #885a0c;
+  font-family: 'Prompt', sans-serif;
+  font-size: 10vh;
+}
+.subtitle {
+  justify-content: center;
+  position: absolute;
+  top: 20%;
+  left: 38%;
+  font-family: 'Prompt', sans-serif;
+  font-size: 4vh;
+}
+
+#localizacao h3 {
+  justify-content: center;
+  position: absolute;
+  top: 42%;
+  left: 12%;
+  font-family: 'Prompt', sans-serif;
+  font-size: 4vh;
+}
+
+#localizacao p {
+  justify-content: center;
+  position: absolute;
+  top: 50%;
+  left: 12%;
+  font-family: 'Prompt', sans-serif;
+  font-size: 13px;
+}
+
+#localizacao iframe {
+  justify-content: center;
+  position: absolute;
+  top: 70%;
+  left: 12%;
+  font-family: 'Prompt', sans-serif;
+  font-size: 12px;
+}
+
+#comodidade {
+  background-image: url('../img/section3.png');
+  position: relative;
+  background-attachment: scroll;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-color: #fff;
+  height: 100vh;
+}
+
+#empresas {
+  background-image: url('../img/empresas.png');
+  position: relative;
+  background-attachment: scroll;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-color: #fff;
+  height: 25vh;
+}
+
+#contato {
+  background-image: url('../img/footer.png');
+  position: relative;
+  background-attachment: scroll;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-color: #fff;
+  height: 80vh;
+}
+
+#footer {
+  background-image: url('../img/footerfinal.png');
+  position: relative;
+  background-attachment: scroll;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-color: #fff;
+  height: 5vh;
+}
